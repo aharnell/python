@@ -1,0 +1,52 @@
+pen mediumblue, 10
+lt 360, 25
+rt 90
+pu()
+fd 75
+lt 90
+bk 23
+pd()
+fd 100
+bk 100
+fd 25
+lt 360, 25
+pu()
+rt 90
+fd 25
+lt 90 
+bk 25
+pd()
+fd 50
+pu()
+fd 25
+pd()
+fd 5
+pu()
+bk 80
+rt 90 
+fd 25
+lt 90
+pd()
+fd 50
+bk 50
+fd 25
+rt 180, 25
+fd 25
+
+speed 5
+pen mediumblue, 10
+lt 360, 25
+jumpxy 25, 0
+rt 360, 25
+jumpxy 50, -25
+fd 100
+jumpxy 25, -100
+fd 50
+jumpxy 25, -50
+fd 50
+bk 25
+rt 180, 25
+fd 25
+rt 180
+jumpxy -75, 75
+fd 5

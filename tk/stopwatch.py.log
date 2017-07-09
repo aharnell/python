@@ -1,0 +1,137 @@
+01/21/2017 10:36:28 AM INFO:p,<class 'str'>
+01/21/2017 10:36:28 AM INFO:r,<class 'str'>
+01/21/2017 10:36:28 AM INFO:c,<class 'str'>
+01/21/2017 10:36:28 AM INFO:q,<class 'str'>
+01/21/2017 11:08:24 AM DEBUG:p,<class 'str'>
+01/21/2017 11:08:24 AM DEBUG:r,<class 'str'>
+01/21/2017 11:08:24 AM DEBUG:c,<class 'str'>
+01/21/2017 11:08:24 AM DEBUG:q,<class 'str'>
+01/21/2017 11:17:32 AM DEBUG:p,<class 'str'>
+01/21/2017 11:17:32 AM DEBUG:r,<class 'str'>
+01/21/2017 11:17:32 AM DEBUG:c,<class 'str'>
+01/21/2017 11:17:32 AM DEBUG:q,<class 'str'>
+01/21/2017 11:17:32 AM INFO:StopWatch Started
+01/21/2017 11:17:33 AM INFO:StopWatch Started
+01/21/2017 11:17:34 AM INFO:StopWatch Started
+01/21/2017 11:17:36 AM INFO:StopWatch Started
+01/21/2017 11:25:20 AM DEBUG:p,<class 'str'>
+01/21/2017 11:25:20 AM DEBUG:r,<class 'str'>
+01/21/2017 11:25:20 AM DEBUG:c,<class 'str'>
+01/21/2017 11:25:20 AM DEBUG:q,<class 'str'>
+01/21/2017 11:25:21 AM INFO:StopWatch Started
+01/21/2017 11:25:23 AM INFO:StopWatch Stopped
+01/21/2017 11:25:24 AM INFO:StopWatch Started
+01/21/2017 11:28:02 AM INFO:StopWatch Started
+01/21/2017 11:28:04 AM INFO:StopWatch Stopped
+01/21/2017 11:28:05 AM INFO:StopWatch Started
+01/21/2017 11:28:32 AM INFO:StopWatch Started
+01/21/2017 11:29:20 AM INFO:StopWatch Started
+01/21/2017 11:29:21 AM INFO:Split recorded (1) 00:01:28
+01/21/2017 11:29:22 AM INFO:Split recorded (2) 00:02:57
+01/21/2017 11:29:24 AM INFO:Split recorded (3) 00:03:89
+01/21/2017 11:29:25 AM INFO:Split recorded (4) 00:05:20
+01/21/2017 11:29:26 AM INFO:Split recorded (5) 00:06:43
+01/21/2017 11:40:59 AM INFO:StopWatch Started
+01/21/2017 11:41:01 AM INFO:StopWatch Stopped
+01/21/2017 11:41:07 AM INFO:StopWatch Started
+01/21/2017 11:42:41 AM INFO:StopWatch Started
+01/21/2017 11:42:43 AM INFO:StopWatch Stopped
+01/21/2017 11:42:44 AM INFO:StopWatch Started
+01/21/2017 11:49:25 AM INFO:StopWatch Started
+01/21/2017 11:49:27 AM INFO:StopWatch Stopped
+01/21/2017 11:49:29 AM INFO:StopWatch Started
+01/21/2017 11:49:32 AM INFO:StopWatch Stopped
+01/21/2017 11:50:31 AM INFO:StopWatch Started
+01/21/2017 11:50:46 AM INFO:Split recorded (1) 00:14:69
+01/21/2017 11:50:48 AM INFO:Split recorded (2) 00:16:23
+01/21/2017 11:50:49 AM INFO:Split recorded (3) 00:17:46
+01/21/2017 11:58:01 AM INFO:StopWatch Started
+01/21/2017 11:58:03 AM INFO:StopWatch Stopped
+01/21/2017 11:58:04 AM INFO:StopWatch Started
+01/21/2017 12:32:33 PM INFO:StopWatch Started
+01/21/2017 12:32:34 PM INFO:StopWatch Stopped
+01/21/2017 12:32:35 PM INFO:StopWatch Started
+01/21/2017 12:32:35 PM INFO:StopWatch Stopped
+01/21/2017 12:33:26 PM INFO:StopWatch Started
+01/21/2017 12:33:26 PM INFO:StopWatch Stopped
+01/21/2017 12:33:27 PM INFO:StopWatch Started
+01/21/2017 12:33:28 PM INFO:Split recorded (1) 00:01:17
+01/21/2017 12:33:28 PM INFO:Split recorded (2) 00:01:55
+01/21/2017 12:33:28 PM INFO:Split recorded (3) 00:01:73
+01/21/2017 12:33:29 PM INFO:Split recorded (4) 00:01:92
+01/21/2017 12:33:29 PM INFO:Split recorded (5) 00:02:10
+01/21/2017 12:33:29 PM INFO:Split recorded (6) 00:02:28
+01/21/2017 12:33:30 PM INFO:Stop Watch reset
+01/21/2017 12:34:50 PM INFO:StopWatch Started
+01/21/2017 12:34:52 PM INFO:StopWatch Stopped
+01/21/2017 12:34:53 PM INFO:StopWatch exitted.
+01/21/2017 12:44:47 PM INFO:StopWatch Started
+01/21/2017 12:44:48 PM INFO:StopWatch Stopped
+01/21/2017 12:44:49 PM INFO:StopWatch exited.
+01/21/2017 12:47:52 PM INFO:StopWatch Started
+01/21/2017 12:47:54 PM INFO:StopWatch Stopped
+01/21/2017 12:47:56 PM INFO:Stop Watch reset
+01/21/2017 12:47:57 PM INFO:StopWatch exited.
+01/21/2017 12:48:16 PM INFO:StopWatch Started
+01/21/2017 12:48:17 PM INFO:StopWatch Stopped
+01/21/2017 12:48:18 PM INFO:StopWatch exited.
+01/21/2017 12:52:28 PM INFO:StopWatch Started
+01/21/2017 12:52:28 PM INFO:StopWatch Stopped
+01/21/2017 12:52:29 PM INFO:StopWatch Started
+01/21/2017 12:52:30 PM INFO:Split recorded (1) 00:01:78
+01/21/2017 12:52:31 PM INFO:Split recorded (2) 00:02:06
+01/21/2017 12:52:31 PM INFO:Split recorded (3) 00:02:21
+01/21/2017 12:52:31 PM INFO:Split recorded (4) 00:02:39
+01/21/2017 12:52:31 PM INFO:Split recorded (5) 00:02:55
+01/21/2017 12:52:32 PM INFO:Stop Watch reset
+01/21/2017 12:52:34 PM INFO:StopWatch exited.
+01/21/2017 12:56:22 PM INFO:stopwatch.py initiated
+01/21/2017 12:56:24 PM INFO:Stop watch started
+01/21/2017 12:56:26 PM INFO:Split recorded (1) 00:01:62
+01/21/2017 12:56:26 PM INFO:Split recorded (2) 00:01:96
+01/21/2017 12:56:26 PM INFO:Split recorded (3) 00:02:14
+01/21/2017 12:56:26 PM INFO:Split recorded (4) 00:02:37
+01/21/2017 12:56:27 PM INFO:Split recorded (5) 00:02:62
+01/21/2017 12:56:27 PM INFO:Stop watch reset
+01/21/2017 12:56:29 PM INFO:StopWatch exited.
+2158 12:58:46 PM 2017 INFO:stopwatch.py initiated
+2158 12:58:47 PM 2017 INFO:Stop watch started
+2158 12:58:48 PM 2017 INFO:Stop watch stopped
+2158 12:58:50 PM 2017 INFO:Stop watch reset
+2158 12:58:51 PM 2017 INFO:stopwatch.py exited
+21Jan 13:01:23 -1000 2017 INFO:stopwatch.py initiated
+21Jan 13:01:25 -1000 2017 INFO:Stop watch started
+21Jan 13:01:26 -1000 2017 INFO:Stop watch stopped
+21Jan 13:01:28 -1000 2017 INFO:Stop watch started
+21Jan 13:01:29 -1000 2017 INFO:Split recorded (1) 00:02:58
+21Jan 13:01:29 -1000 2017 INFO:Split recorded (2) 00:02:93
+21Jan 13:01:29 -1000 2017 INFO:Split recorded (3) 00:03:10
+21Jan 13:01:30 -1000 2017 INFO:Split recorded (4) 00:03:35
+21Jan 13:01:30 -1000 2017 INFO:Split recorded (5) 00:03:60
+21Jan 13:01:30 -1000 2017 INFO:Split recorded (6) 00:03:85
+21Jan 13:01:31 -1000 2017 INFO:Stop watch reset
+21Jan 13:01:32 -1000 2017 INFO:stopwatch.py exited
+21Jan 13:02:19 Z-1000 2017 INFO:stopwatch.py initiated
+21Jan 13:02:20 Z-1000 2017 INFO:Stop watch started
+21Jan 13:02:21 Z-1000 2017 INFO:Stop watch stopped
+21Jan 13:02:22 Z-1000 2017 INFO:stopwatch.py exited
+21130536 Z-1000 Jan 2017 INFO:stopwatch.py initiated
+21130536 Z-1000 Jan 2017 INFO:Stop watch started
+21130537 Z-1000 Jan 2017 INFO:Stop watch stopped
+21130540 Z-1000 Jan 2017 INFO:stopwatch.py exited
+21 13:07:10 Z-1000 Jan 17 INFO:stopwatch.py initiated
+21 13:07:11 Z-1000 Jan 17 INFO:Stop watch started
+21 13:07:11 Z-1000 Jan 17 INFO:Stop watch stopped
+21 13:07:11 Z-1000 Jan 17 INFO:Stop watch started
+21 13:07:11 Z-1000 Jan 17 INFO:Stop watch stopped
+21 13:07:12 Z-1000 Jan 17 INFO:Stop watch started
+21 13:07:12 Z-1000 Jan 17 INFO:Stop watch stopped
+21 13:07:12 Z-1000 Jan 17 INFO:Stop watch started
+21 13:07:12 Z-1000 Jan 17 INFO:Stop watch stopped
+21 13:07:13 Z-1000 Jan 17 INFO:stopwatch.py exited
+21 13:08:06 Z-1000 Jan 17 -- INFO: stopwatch.py initiated
+21 13:08:08 Z-1000 Jan 17 -- INFO: stopwatch.py exited
+21,130845 Z-1000 Jan 17 -- INFO: stopwatch.py initiated
+21,130847 Z-1000 Jan 17 -- INFO: stopwatch.py exited
+21,13:09:38 Z-1000 Jan 2017 -- INFO: stopwatch.py initiated
+21,13:09:40 Z-1000 Jan 2017 -- INFO: stopwatch.py exited
